@@ -1,0 +1,61 @@
+var films = [{
+
+   "article_id" : "1",
+   
+   "title" : "A star is Born",
+
+   "description" : "A short description",
+
+   "link_online_pic" : "./img/a_star_is_born.jpg"
+   
+   } , {
+
+   "article_id" : "2",
+   
+   "title" : "ES 2",
+
+   "description" : "A short description",
+
+   "link_online_pic" : "./img/es_2.jpg"
+   
+   } , {
+
+   "article_id" : "3",
+   
+   "title" : "First Man",
+
+   "description" : "A short description",
+
+   "link_online_pic" : "./img/first_man.jpg"
+   
+   } , {
+
+   "article_id" : "4",
+   
+   "title" : "Crazy Rich Asians",
+
+   "description" : "A short description",
+
+   "link_online_pic" : "./img/crazy_rich_asians.jpg"
+   
+   } , {
+
+   "article_id" : "5",
+   
+   "title" : "Star Wars",
+
+   "description" : "A short description",
+
+   "link_online_pic" : "./img/star_wars.jpg"
+   
+   } , {
+
+   "article_id" : "6",
+   
+   "title" : "Titanic",
+
+   "description" : "A short description",
+
+   "link_online_pic" : "./img/titanic.jpg"
+
+}];
